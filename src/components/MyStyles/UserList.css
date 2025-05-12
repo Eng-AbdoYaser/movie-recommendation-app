@@ -1,0 +1,14 @@
+.netflix-add-btn.added {
+    background-color: #dc3545 !important;
+}
+
+.netflix-add-btn.added:hover {
+    background-color: #bb2d3b !important;
+}
+
+.empty-list-message {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
